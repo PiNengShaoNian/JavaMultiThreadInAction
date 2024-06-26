@@ -1,4 +1,4 @@
-package ch1;
+package ch01;
 
 public class JavaThreadAnywhere {
     public static void main(String[] args) {

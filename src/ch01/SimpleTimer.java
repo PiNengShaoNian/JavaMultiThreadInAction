@@ -1,4 +1,4 @@
-package ch1;
+package ch01;
 
 public class SimpleTimer {
     private static int count;

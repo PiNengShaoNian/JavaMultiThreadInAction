@@ -1,4 +1,4 @@
-package ch1;
+package ch01;
 
 public class WelcomeApp2 {
     public static void main(String[] args) {
