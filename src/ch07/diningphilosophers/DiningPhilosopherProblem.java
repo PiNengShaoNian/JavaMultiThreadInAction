@@ -16,7 +16,7 @@ public class DiningPhilosopherProblem {
 
         String philosopherImplClassName = System.getProperty("x.philo.impl");
         if (null == philosopherImplClassName) {
-            philosopherImplClassName = "GlobalLckBasedPhilosopher";
+            philosopherImplClassName = "FixedLockBasedPhilosopher";
         }
         Debug.info("Using %s as implementation.", philosopherImplClassName);
         for (int i = 0; i < numOfPhilosophers; i++) {
