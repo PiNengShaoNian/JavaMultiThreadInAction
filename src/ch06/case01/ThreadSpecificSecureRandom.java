@@ -1,4 +1,4 @@
-package ch6.case01;
+package ch06.case01;
 
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;

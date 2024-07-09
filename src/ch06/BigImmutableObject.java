@@ -1,4 +1,4 @@
-package ch6;
+package ch06;
 
 import util.ReadOnlyIterator;
 

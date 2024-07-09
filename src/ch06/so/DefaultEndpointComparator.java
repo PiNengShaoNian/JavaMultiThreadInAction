@@ -1,4 +1,4 @@
-package ch6.so;
+package ch06.so;
 
 import ch03.case01.Endpoint;
 
